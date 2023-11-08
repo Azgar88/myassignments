@@ -19,5 +19,5 @@ class employee:
 ref_emp=employee(name="Azgar Ali",id="02068",domain="python",salary="25000")
 print(employee.company_name)
 ref_emp.employee_details()
-ref_emp.emp_credentials
+ref_emp.emp_credentials()
 
